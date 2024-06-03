@@ -1,0 +1,33 @@
+.users-list {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.users-list ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 100%;
+  max-width: 1200px;
+  justify-content: center;
+}
+
+.users-list p {
+  width: 100%;
+  text-align: center;
+  font-size: 1em;
+  color: #666;
+}
+
+.email,
+.city,
+.phone,
+.website {
+  font-weight: bold;
+  color: #333;
+  font-size: 1em;
+}
