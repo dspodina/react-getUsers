@@ -37,3 +37,9 @@
   color: #888;
   font-size: 1.2em;
 }
+
+.user-card .line {
+  height: 1px;
+  background-color: #028391; 
+  margin: 10px 0 15px; 
+}

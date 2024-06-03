@@ -8,6 +8,7 @@ const User = ({ user }) => {
   return (
     <li className="user-card">
       <h2>{user.name}</h2>
+      <div className="line"></div>
       <p className="contact-item email">
         <MdOutlineMail className="icon" /> {user.email}
       </p>
