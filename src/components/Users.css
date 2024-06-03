@@ -16,18 +16,3 @@
   justify-content: center;
 }
 
-.users-list p {
-  width: 100%;
-  text-align: center;
-  font-size: 1em;
-  color: #666;
-}
-
-.email,
-.city,
-.phone,
-.website {
-  font-weight: bold;
-  color: #333;
-  font-size: 1em;
-}
